@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResistorColorTest" tests="4" skipped="3" failures="0" errors="0" timestamp="2023-12-27T13:44:25" hostname="ABHIP" time="0.039">
+  <properties/>
+  <testcase name="testWhiteColorCode" classname="ResistorColorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testColors" classname="ResistorColorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBlackColorCode" classname="ResistorColorTest" time="0.038"/>
+  <testcase name="testOrangeColorCode" classname="ResistorColorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
